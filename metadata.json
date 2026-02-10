@@ -1,0 +1,5 @@
+{
+  "name": "SWU Physical Therapy Scoliometer",
+  "description": "A precision digital scoliometer designed for physical therapy students and professionals. Uses high-accuracy device sensors for ATR measurement.",
+  "requestFramePermissions": []
+}
